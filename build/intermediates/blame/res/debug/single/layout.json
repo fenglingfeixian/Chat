@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_left.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\record_list.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\record_list.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\information.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\information.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_right.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\custom_title.xml"
+    }
+]
